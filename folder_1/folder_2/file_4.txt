@@ -1,0 +1,13 @@
+Languages:
+C
+Java
+Python
+HTML
+CSS
+C++
+MySql
+mongodb
+Nosql
+tensorflow
+keras
+php
